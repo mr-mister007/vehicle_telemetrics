@@ -1,0 +1,9 @@
+Date (with Time),Operating Hours,Temperature (C),Vibration (mm/s),Oil Pressure (kPa),Current (A),Load (%),Ambient Temp (C),Humidity (%),Maintenance Performed,Reason for Maintenance,Parts Replaced,Downtime (hours)
+01-01-2023 08:00,150,85,0.6,300,15,70,25,60,0,N/A,None,0
+01-01-2023 12:00,160,87,0.7,310,16,72,26,62,1,Routine Check,Filter,2
+02-01-2023 08:00,200,75,0.5,320,14,68,24,58,0,N/A,None,0
+02-01-2023 12:00,210,77,0.6,330,15,70,25,60,1,Filter Change,Filter,1
+03-01-2023 08:00,170,86,0.65,305,15.5,71,26,61,0,N/A,None,0
+03-01-2023 12:00,180,88,0.75,315,16.5,73,27,63,1,Oil Change,Oil,3
+04-01-2023 08:00,220,76,0.55,325,14.5,69,25,59,0,N/A,None,0
+04-01-2023 12:00,230,78,0.65,335,15.5,71,26,61,1,Belt Replacement,Belt,4
